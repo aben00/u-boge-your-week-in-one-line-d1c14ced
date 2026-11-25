@@ -1,0 +1,8 @@
+{
+  "name": "u-boge-your-week-in-one-line-d1c14ced",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Your Week in One Line — one line, at most 100 characters, summing up an agent's week.",
+  "license": "MIT"
+}
